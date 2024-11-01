@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Word Count\n"
+"POT-Creation-Date: 2017-08-30 22:11+0200\n"
+"PO-Revision-Date: 2017-08-31 20:19+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wcwizard.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-wcwizard-admin.php:124
+msgid "Upgrade to WP Word Count Pro"
+msgstr "Actualización a WP Word Cuenta Pro"
+
+#: admin/class-wcwizard-admin.php:244
+#: admin/class-wcwizard-admin.php:257
+msgid "Uncategorized"
+msgstr "Sin categoría"
+
+#: admin/partials/wcwizard-admin-ac.php:21
+#: admin/partials/wcwizard-admin-page.php:21
+#: admin/partials/wcwizard-admin-post.php:21
+#: admin/partials/wcwizard-admin-tc.php:22
+msgid "EXPORT"
+msgstr "EXPORTAR"
+
+#: admin/partials/wcwizard-admin-ac.php:51
+#: admin/partials/wcwizard-admin-page.php:51
+#: admin/partials/wcwizard-admin-post.php:51
+#: admin/partials/wcwizard-admin-tc.php:53
+msgid "TOTAL"
+msgstr "TOTAL"
+
+#: admin/partials/wcwizard-admin-as.php:16
+#: admin/partials/wcwizard-admin.php:26
+msgid "Author"
+msgstr "Autor"
+
+#: admin/partials/wcwizard-admin-as.php:17
+#: admin/partials/wcwizard-admin-as.php:41
+#: admin/partials/wcwizard-admin-as.php:48
+#: admin/partials/wcwizard-admin-cs.php:17
+#: admin/partials/wcwizard-admin-cs.php:41
+#: admin/partials/wcwizard-admin-cs.php:48
+#: admin/partials/wcwizard-admin-ms.php:17
+#: admin/partials/wcwizard-admin-ms.php:41
+#: admin/partials/wcwizard-admin-ms.php:48
+#: admin/partials/wcwizard-admin.php:29
+msgid "Words"
+msgstr "Palabras"
+
+#: admin/partials/wcwizard-admin-as.php:25
+#: admin/partials/wcwizard-admin-cs.php:25
+#: admin/partials/wcwizard-admin-ms.php:25
+#: includes/functions-wcwizard.php:225
+#: includes/functions-wcwizard.php:245
+#: includes/functions-wcwizard.php:264
+msgid "Published"
+msgstr "Publicadas"
+
+#: admin/partials/wcwizard-admin-as.php:26
+#: admin/partials/wcwizard-admin-cs.php:26
+#: admin/partials/wcwizard-admin-ms.php:26
+#: includes/functions-wcwizard.php:225
+#: includes/functions-wcwizard.php:245
+#: includes/functions-wcwizard.php:264
+msgid "Draft"
+msgstr "Borrador"
+
+#: admin/partials/wcwizard-admin-as.php:43
+#: admin/partials/wcwizard-admin-as.php:50
+#: admin/partials/wcwizard-admin-cs.php:43
+#: admin/partials/wcwizard-admin-cs.php:50
+#: admin/partials/wcwizard-admin-ms.php:43
+#: admin/partials/wcwizard-admin-ms.php:50
+msgid "Avg."
+msgstr "Prom."
+
+#: admin/partials/wcwizard-admin-cs.php:16
+#: admin/partials/wcwizard-admin.php:27
+msgid "Category"
+msgstr "Categoría"
+
+#: admin/partials/wcwizard-admin-ms.php:16
+msgid "Month"
+msgstr "Mes"
+
+#: admin/partials/wcwizard-admin-stats.php:15
+msgid "Published Texts"
+msgstr "Publicadas"
+
+#: admin/partials/wcwizard-admin-stats.php:22
+#, php-format
+msgid "%s words <br /><small>in %s published posts</small>"
+msgstr "%s palabras <br /><small>en %s entradas publicadas</small>"
+
+#: admin/partials/wcwizard-admin-stats.php:23
+#, php-format
+msgid "%s words <br /><small>in %s published pages</small>"
+msgstr "%s palabras <br /><small>en %s páginas publicadas</small>"
+
+#: admin/partials/wcwizard-admin-stats.php:36
+msgid "Draft Texts"
+msgstr "Borrador"
+
+#: admin/partials/wcwizard-admin-stats.php:43
+#, php-format
+msgid "%s words <br /><small>in %s unpublished posts</small>"
+msgstr "%s palabras <br /><small>en %s borradores</small>"
+
+#: admin/partials/wcwizard-admin-stats.php:44
+#, php-format
+msgid "%s words <br /><small>in %s unpublished pages</small>"
+msgstr "%s palabras <br /><small>en %s páginas no publicadas</small>"
+
+#: admin/partials/wcwizard-admin.php:23
+msgid "Title"
+msgstr "Título"
+
+#: admin/partials/wcwizard-admin.php:24
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/partials/wcwizard-admin.php:25
+msgid "Status"
+msgstr "Estado"
+
+#: admin/partials/wcwizard-admin.php:28
+msgid "Date"
+msgstr "Fecha"
+
+#: admin/partials/wcwizard-admin.php:39
+msgid "Top Content"
+msgstr "Contenido Principal"
+
+#: admin/partials/wcwizard-admin.php:40
+msgid "All Content"
+msgstr "Todo el Contenido"
+
+#: admin/partials/wcwizard-admin.php:41
+msgid "Posts"
+msgstr "Entradas"
+
+#: admin/partials/wcwizard-admin.php:42
+msgid "Pages"
+msgstr "Páginas"
+
+#: admin/partials/wcwizard-admin.php:43
+msgid "Monthly Statistics"
+msgstr "Estadísticas Mensuales"
+
+#: admin/partials/wcwizard-admin.php:44
+msgid "Author Statistics"
+msgstr "Estadísticas por Autor"
+
+#: admin/partials/wcwizard-admin.php:45
+msgid "Category Statistics"
+msgstr "Estadísticas por Categoría"
+
+#: admin/partials/wcwizard-menu.php:28
+msgid "Settings"
+msgstr "Opciones"
+
+#: includes/functions-wcwizard.php:186
+msgid "You do not have sufficient pilchards to access this page."
+msgstr ""
+
+#: includes/functions-wcwizard.php:241
+msgid "Post"
+msgstr "Entrada"
+
+#: includes/functions-wcwizard.php:260
+msgid "Page"
+msgstr "Página"
+
+#: includes/functions-wcwizard.php:284
+msgid "Link"
+msgstr "Enlace"
+
+#. Plugin Name of the plugin/theme
+msgid "Word Count Wizard"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://www.ibidemgroup.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Word Count Statistics for your Posts, Pages and Custom Post Types."
+msgstr ""
+"Estadísticas de número de palabras para entradas, páginas y tipos de Post "
+"personalizados."
+
+#. Author of the plugin/theme
+msgid "Ibidem Group"
+msgstr ""
+
+#~ msgid "%s words"
+#~ msgstr "%s palabras"
+
+#~ msgid "in %s published posts"
+#~ msgstr "en %s artículos publicados"
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Average"
+#~ msgstr "Normal"
+
+#~ msgid "Published Words"
+#~ msgstr "Palabras Publicadas"
+
+#~ msgid "export"
+#~ msgstr "EXPORTAR"
+
+#~ msgid ".CSV Report"
+#~ msgstr "Informe .CSV"
+
+#~ msgid "Informe .CSV"
+#~ msgstr "Informe .CSV"
+
+#~ msgid "A WordPress Plugin by"
+#~ msgstr "Wordpress SEO Plugin"
+
+#~ msgid "Upgrade to <strong>WP Word Count Pro</strong> for"
+#~ msgstr "Actualización a <strong>WP Word Count Pro</strong> para"
+
+#~ msgid "Detailed Post Statistics"
+#~ msgstr "Estadística Detallada Post"
+
+#~ msgid "Monthly Writing Breakdowns"
+#~ msgstr "Averías de Escritura Mensual"
+
+#~ msgid "Motivational Achievements"
+#~ msgstr "Logros Motivacionales"
+
+#~ msgid "Learn More"
+#~ msgstr "Más Información"
